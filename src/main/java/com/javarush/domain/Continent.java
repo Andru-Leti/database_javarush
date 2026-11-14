@@ -1,4 +1,11 @@
 package com.javarush.domain;
 
-public class Continent {
+public enum Continent {
+    ASIA,
+    EUROPE,
+    NORTH_AMERICA,
+    AFRICA,
+    OCEANIA,
+    ANTARCTICA,
+    SOUTH_AMERICA
 }
